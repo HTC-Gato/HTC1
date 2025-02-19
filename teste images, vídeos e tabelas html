@@ -1,0 +1,65 @@
+<html>
+    <head> 
+        <title>Olá</title>
+     </head>
+    <body>
+        <h1>IMAGENS</h1>
+            <img src="C:\Users\Unitins\Downloads\Paisagem-1.webp" title="linda pisagem, não acha?" alt="imagem 0" >
+        <figure>
+            <img src="C:\Users\Unitins\Pictures\Screenshots\logo htc.png" >
+            <figcaption>melhor do mundo</figcaption>
+        </figure>
+
+        <h1>VÍDEOS</h1>
+        
+            <iframe src="https://www.youtube.com/embed/4P6l35M61GY?si=oyhVEWDVpXRcivGw"
+            width="400" height="250">
+
+            </iframe>
+
+            <h1>TABELAS</h1>
+        
+            <table width="700" height="350" border="10">
+                   
+                <tr>
+                 
+                    <th>nome</th>
+                    <th>idade </th>
+                    <th>sexo </th>
+                    <th>cpf </th>
+                
+                </tr>
+                  <tr>
+                    <td>Heitor</td>
+                    <td>17</td>
+                    <td>masculino</td>
+                    <td>000.000.000-00</td>
+
+                </tr>
+                <tr>
+                    <td>Ana</td>
+                    <td>16</td>
+                    <td>feminino</td>
+                    <td>000.000.000-00</td>
+
+                </tr>
+                <tr>
+                    <td>Igor</td>
+                    <td>21</td>
+                    <td>masculino</td>
+                    <td>000.000.000-00</td>
+
+                </tr>
+                <tr>
+                    <td>Victor</td>
+                    <td>18</td>
+                    <td>masculino</td>
+                    <td>000.000.000-00</td>
+
+                </tr>
+
+
+            </table>
+
+    </body>
+</html>
