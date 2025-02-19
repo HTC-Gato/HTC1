@@ -57,9 +57,59 @@
                     <td>000.000.000-00</td>
 
                 </tr>
-
-
             </table>
+                <br>
+                <h1>FORMULÁRIOS</h1>
+                <form>
+
+                    <label> Nome: </label>
+                         <input type="text"
+                    
+                    <br><br>
+
+                    <label> Data: </label>
+
+                         <input type="date"
+
+                    <br><br>
+
+                    <label> Idade: </label>
+
+                         <input type="number" name="campoIdade" min="0" max="120"
+
+                    <br><br>
+
+                    <label>Sexo</label>
+
+                    <br><br>
+
+                         <input type="radio" name="camposexo" value="M"> Masculino
+                         <input type="radio" name="camposexo" value="F"> Feminino
+                    
+                    <br><br>
+                    
+                    <label>Interesses</label>
+                    
+                    <br><br>
+
+                         <input type="checkbox" name="campoAutomovel"> Automóveis <br>
+                         <input type="checkbox" name="campoBarco"> Barcos
+
+                    <br><br>
+
+                    <label>Estado Civil</label>
+                     <selct name="CampoEstadoCivil"><br><br>
+                        <option></option>
+
+                         <option>Casado(a)</option>
+                         <option>Solteiro(a)</option>
+                         <option>Viúvo(a)</option>
+                         <option>Divorciado(a)</option>
+
+                     </selct>
+                </form>
+
+            
 
     </body>
 </html>
